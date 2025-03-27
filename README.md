@@ -1,21 +1,20 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi 👋, I'm Anish Pandey</h1>
 <h3 align="center">A MERN Stack Developer from Nepal</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yourgithubusername&label=Profile%20Views&color=0e75b6&style=flat" alt="yourgithubusername" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Anishp310&label=Profile%20Views&color=0e75b6&style=flat" alt="Anishp310" /> </p>
 
-- 🌱 I’m currently learning **Framer Motion & Python (Pandas, Flask, FastAPI)**  
-- 🔥 Working on **Futsal Booking System, Inventory Management, and Logistic Management**  
-- 💬 Ask me about **React, Tailwind, Node.js, Express.js, PostgreSQL, MySQL, MongoDB**  
-- 📫 Reach me at **your-email@example.com**  
+- 🌱 I’m currently learning **Python (Pandas, Flask, FastAPI)**  
+- 🔥 Working on **Futsal Booking System, Inventory Management**  
+- 💬 Ask me about **React, Tailwind, Node.js, Express.js, Prisma, PostgreSQL, MySQL, MongoDB**  
+- 📫 Reach me at **anishp310@gmail.com**  
 - ⚡ Fun fact: **I can turn coffee into code ☕💻**  
 
 ---
 
 ## 🌐 Connect with Me:
 <p align="left">
-<a href="https://linkedin.com/in/your-linkedin" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn" /></a>
-<a href="https://github.com/yourgithubusername" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/github.png" alt="GitHub" /></a>
-<a href="https://instagram.com/your-instagram" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram" /></a>
+  <a href="https://linkedin.com/in/anish-pandey-4b1478272/" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn" /></a>
+  <a href="https://github.com/Anishp310" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/github.png" alt="GitHub" /></a>
 </p>
 
 ---
@@ -38,9 +37,9 @@
 
 ## 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=radical" alt="yourgithubusername stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourgithubusername&theme=radical" alt="yourgithubusername streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithubusername&layout=compact&theme=radical" alt="yourgithubusername top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Anishp310&show_icons=true&theme=radical" alt="Anishp310 stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anishp310&theme=radical" alt="Anishp310 streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anishp310&layout=compact&theme=radical" alt="Anishp310 top languages" />
 </p>
 
 ---
