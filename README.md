@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Anishp310&label=Profile%20Views&color=0e75b6&style=flat" alt="Anishp310" /> </p>
 
-- 🌱 I’m currently learning **Python (Pandas, Flask, FastAPI)**  
+- 🌱 I’m currently learning **Python (Pandas, numpy,matplotlib)**  
 - 🔥 Working on **Futsal Booking System, Inventory Management**  
 - 💬 Ask me about **React, Tailwind, Node.js, Express.js, Prisma, PostgreSQL, MySQL, MongoDB**  
 - 📫 Reach me at **anishp310@gmail.com**  
